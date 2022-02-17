@@ -1,8 +1,8 @@
 import { createStore } from "vuex";
+import repoStore from "./repoStore";
 
 export default createStore({
-  state: {},
-  mutations: {},
-  actions: {},
-  modules: {},
+  modules: {
+    repoStore
+  }
 });
