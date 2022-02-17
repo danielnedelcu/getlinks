@@ -1,11 +1,11 @@
 import Api from './Api'
 
 /**
- * API abstraction for the tvshow service
+ * API abstraction for the repo service
  */
 export default {
     /**
-     * Fetch TV show data
+     * Fetch repo data
      * 
      * @type GET
      * @param {String} params 
