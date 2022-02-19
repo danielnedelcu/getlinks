@@ -2,7 +2,7 @@
 
 This purpose of this application is to allow the user to input a Guthub repo, display the repos associate it with it and display its commits by user click on the repo.
 
-Application is build in Vue 3
+Application is build in Vue 3.
 Direct link: https://620e9f36da9fa032720aed53--goofy-volhard-2c717e.netlify.app/
 
 ## Project setup
