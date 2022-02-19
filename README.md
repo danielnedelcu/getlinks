@@ -1,4 +1,8 @@
-# challenge
+# Code challege
+
+This purpose of this application is to allow the user to input a Guthub repo, display the repos associate it with it and display its commits by user click on the repo.
+
+Application is build in Vue 3
 
 ## Project setup
 ```
